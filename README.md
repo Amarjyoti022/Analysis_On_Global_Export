@@ -1,6 +1,6 @@
 # Analysis_On_Global_Export
 
-# 🌍 Global Sales Analysis
+# Global Sales Analysis
 
 ## Project Overview
 This project analyzes global sales transaction data to extract meaningful business insights.  
