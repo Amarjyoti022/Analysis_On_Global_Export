@@ -2,14 +2,14 @@
 
 # 🌍 Global Sales Analysis
 
-## 📌 Project Overview
+## Project Overview
 This project analyzes global sales transaction data to extract meaningful business insights.  
 It covers revenue trends, profit margins, shipping efficiency, product category performance, and regional sales variations.  
 The analysis leverages Python for data wrangling, transformation, and visualization.
 
 ---
 
-## 📂 Dataset
+##  Dataset
 The dataset contains records of global sales transactions with details such as:
 - **Region & Country** – Geographical location of sales.
 - **Item Type** – Product category sold.
@@ -21,7 +21,7 @@ The dataset contains records of global sales transactions with details such as:
 
 ---
 
-## 🔍 Key Objectives
+##  Key Objectives
 - Identify **top-performing regions and countries** by revenue and profit.
 - Compare **online vs offline** sales performance.
 - Measure **shipping duration** and assess impact of order priority.
@@ -30,7 +30,7 @@ The dataset contains records of global sales transactions with details such as:
 
 ---
 
-## 📊 Techniques Used
+##  Techniques Used
 - **Data Cleaning** – Handling missing values, fixing date formats.
 - **Feature Engineering** – Extracting year/month from dates, calculating shipping duration, profit margins.
 - **Bivariate & Multivariate Analysis** – To explore relationships between multiple variables.
@@ -38,7 +38,7 @@ The dataset contains records of global sales transactions with details such as:
 
 ---
 
-## 📈 Example Insights
+##  Example Insights
 - **Faster shipping** does not always guarantee higher profits.
 - Some regions excel in **offline sales**, while others dominate **online markets**.
 - A few product types generate **high revenue but low profit margins**.
